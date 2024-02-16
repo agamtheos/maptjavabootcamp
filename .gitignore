@@ -36,3 +36,9 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+.misc.xml
+
+saveactions_settings.xml
+
+vcs.xml
