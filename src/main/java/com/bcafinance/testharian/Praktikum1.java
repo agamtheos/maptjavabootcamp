@@ -24,7 +24,7 @@ public class Praktikum1 {
             char ch = input.charAt(i);
             int val = ch;
 
-            if(val < 97) {
+            if(val < 97 || val > 122) {
                 hasil += val;
             }
         }
